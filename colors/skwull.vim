@@ -25,7 +25,7 @@ if exists('syntax_on')
 endif
 
 
-let g:colors_name='skull'
+let g:colors_name='skwull'
 set background=dark
 
 
@@ -33,25 +33,25 @@ set background=dark
 hi Cursor          guifg=#FFFFFF    guibg=#000000    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
 hi IncSearch       guifg=#FFFFFF    guibg=#000000    ctermfg=white    ctermbg=black    gui=ITALIC       cterm=NONE
 hi Search          guifg=#268bd2    guibg=#2c2c2c    ctermfg=white    ctermbg=black    gui=ITALIC       cterm=NONE
-hi Visual          guifg=#7eae81    guibg=#2c2c2c    ctermfg=white    ctermbg=black    gui=ITALIC       cterm=NONE
-hi VisualNOS       guifg=#7eae81    guibg=#2c2c2c    ctermfg=white    ctermbg=black    gui=ITALIC       cterm=NONE
+hi Visual          guifg=#45A9AD    guibg=#2c2c2c    ctermfg=white    ctermbg=black    gui=ITALIC       cterm=NONE
+hi VisualNOS       guifg=#45A9AD    guibg=#2c2c2c    ctermfg=white    ctermbg=black    gui=ITALIC       cterm=NONE
 
 "" white fg w/black bg
 hi Constant        guifg=#A0A0A0    guibg=#222222    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
 hi DiffAdd         guifg=#A0A0A0    guibg=#222222    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
 hi Number          guifg=#707070    guibg=#222222    ctermfg=white    ctermbg=black    gui=BOLD         cterm=BOLD
-hi Pmenu           guifg=#7eae81    guibg=#2c2c2c    ctermfg=white    ctermbg=black    gui=BOLD         cterm=BOLD
-hi String          guifg=#d3d3d3    guibg=#222222    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
+hi Pmenu           guifg=#45A9AD    guibg=#2c2c2c    ctermfg=white    ctermbg=black    gui=BOLD         cterm=BOLD
+hi String          guifg=#d9d9d9    guibg=#222222    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
 
 "" grey fg w/white bg
 
 hi CursorColumn    guifg=#FFFFFF    guibg=#2c2c2c    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
 hi ColorColumn     guifg=#2c2c2c    guibg=#2c2c2c    ctermfg=black    ctermbg=black
 hi CursorLine      guibg=#2c2c2c    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
-hi CursorLineNr    guifg=#7eae81    guibg=#2c2c2c    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
+hi CursorLineNr    guifg=#45A9AD    guibg=#2c2c2c    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
 
 "" grey fg w/black bg
-hi Comment         guifg=#7eae81    guibg=#222222    ctermfg=grey     ctermbg=black    gui=ITALIC       cterm=NONE
+hi Comment         guifg=#45A9AD    guibg=#222222    ctermfg=grey     ctermbg=black    gui=ITALIC       cterm=NONE
 hi DiffChange      guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi DiffDelete      guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi DiffText        guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
@@ -74,7 +74,7 @@ hi PmenuThumb      guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=bl
 hi PreProc         guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
 
 hi Special         guifg=#414141    guibg=#222222    ctermfg=white    ctermbg=black    gui=BOLD         cterm=BOLD
-hi Operator        guifg=#7eae81    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=NONE
+hi Operator        guifg=#45A9AD    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=NONE
 
 hi SpecialKey      guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=ITALIC       cterm=NONE
 hi Statement       guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
