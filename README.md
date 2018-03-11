@@ -18,10 +18,12 @@
                                          :
 ```  
 
-# SKULL  
+Forked from [beigebrucewayne](https://github.com/beigebrucewayne/skull-vim)
+
+# SKWULL  
 ![](https://img.shields.io/github/license/mashape/apistatus.svg)
 
-![skull-theme](https://i.imgur.com/X0ZqDXF.png)  
+![skwull-theme](https://i.imgur.com/X0ZqDXF.png)  
 
 ## Installation
 
@@ -29,13 +31,13 @@ Install manually or use a package manager:
 
 ```viml
 " vim-plug
-Plug 'beigebrucewayne/skull-vim'
+Plug 'wingillis/skwull-vim'
 " NeoBundle
-NeoBundle 'beigebrucewayne/skull-vim'
+NeoBundle 'wingillis/skwull-vim'
 " Vundle
-Plugin 'beigebrucewayne/skull-vim'
+Plugin 'wingillis/skwull-vim'
 ```
 
 ```viml
-colorscheme skull
+colorscheme skwull
 ```
